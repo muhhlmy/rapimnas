@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev -p 3002",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@kalimahapps/vue-icons": "^1.9.2",
+    "@nuxt/fonts": "^0.11.4",
+    "@tailwindcss/vite": "^4.1.5",
+    "@typescript-eslint/utils": "^8.44.1",
+    "dotenv": "^16.5.0",
+    "nuxt": "^3.17.2",
+    "qr-scanner": "^1.4.2",
+    "sweetalert2": "^11.23.0",
+    "tailwindcss": "^4.1.5",
+    "vue": "^3.5.13",
+    "vue-flatpickr-component": "^11.0.5",
+    "vue-router": "^4.5.1"
+  }
+}

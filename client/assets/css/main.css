@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Set Montserrat as default font */
+body, html {
+    font-family: 'Montserrat';
+  }
+  
+  /* Optional: Set font for all elements */
+  * {
+    font-family: 'Montserrat';
+  }
